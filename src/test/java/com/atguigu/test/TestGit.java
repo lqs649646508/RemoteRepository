@@ -1,5 +1,7 @@
 package com.atguigu.test;
 
 public class TestGit {
-  System.out.println("xyz");
+  public static void main(String[] args) {
+    System.out.println("xyz");
+  }
 }
